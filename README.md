@@ -1,6 +1,8 @@
 # 💸 Expense Tracker (React)
 A simple and elegant Expense Tracker built using React. This component allows users to add and delete expense items along with their amounts — making it useful for managing daily finances.
 
+## Live Demo [https://simple-expense-tracker-2pdb.onrender.com]
+
 # ✨ Features
 
 Add new expenses with title and amount
